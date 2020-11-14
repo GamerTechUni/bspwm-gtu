@@ -29,5 +29,30 @@ bspwm-gtu is bspwm but with with my own config plus some extra software like pol
 ```
 git clone https://github.com/GamerTechUni/bspwm-gtu.git
 ```
-(3) Move them to the config folder 
+(3) Move them to the config folder
+
+```
+mv bspwm ~/.config
+```
+for bspwm config
+
+```
+mv sxhkd ~/.config
+```
+for keyboard shortcuts
+
+```
+mv polybar ~/.config
+```
+for the bar
+
+```
+mv picom ~/.config
+```
+for transparency effects
+
+```
+mv dunst ~/.config
+```
+for notifications
 
