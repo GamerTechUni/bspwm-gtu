@@ -5,6 +5,7 @@ bspwm-gtu is bspwm but with with my own config plus some extra software like pol
 (1) Install all the dependencies
 
 - [Bspwm](https://github.com/baskerville/bspwm) as the window manager
+- [Polybar](https://github.com/polybar/polybar) for the bar
 - [dmenu-gtu](https://github.com/GamerTechUni/dmenu-gtu) for the program launcher
 - [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) for app launcher
 - [Picom](https://github.com/yshui/picom) for the compositor (transparency and animations)
