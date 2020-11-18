@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/sh
 
 # Terminate already running bar instant
 # If all your bars have ipc enabled, you can also use 

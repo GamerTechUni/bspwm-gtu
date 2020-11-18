@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #title           : dmenu_shutdown
 #description     : A simple dmenu call to logout, hibernate, shutdown, sleep, or restart 
 #author      : Arne Küderle

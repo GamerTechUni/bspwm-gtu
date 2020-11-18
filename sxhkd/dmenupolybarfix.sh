@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #title           : dmenu_polybarfix
 #description     : Fix polybar if it doesn't launch
 #author          : Samuel Reddy

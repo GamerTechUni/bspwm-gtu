@@ -8,6 +8,7 @@ bspwm-gtu is bspwm but with with my own config plus some extra software like pol
 - [Polybar](https://github.com/polybar/polybar) for the bar
 - [dmenu-gtu](https://github.com/GamerTechUni/dmenu-gtu) for the program launcher
 - [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) for app launcher
+- [Nitrogen](https://github.com/l3ib/nitrogen) for setting a wallpaper
 - [Picom](https://github.com/yshui/picom) for the compositor (transparency and animations)
 - [i3lock-fancy](https://github.com/meskarune/i3lock-fancy) the lockscreen application
 - [xclip](https://github.com/astrand/xclip) clipboard program
@@ -22,7 +23,7 @@ bspwm-gtu is bspwm but with with my own config plus some extra software like pol
 - (Optional) [Pavucontrol](https://freedesktop.org/software/pulseaudio/pavucontrol/) for sound settings
 - (Optional) [Xfce Power Manager](https://www.xfce.org/) for power management
 - (Optional) [Dunst](https://github.com/dunst-project/dunst) for notifications
-- (Optional) [GNOME Screenshot](https://gitlab.gnome.org/GNOME/gnome-screenshot) screenshot tool
+- (Optional) [GNOME Screenshot](https://gitlab.gnome.org/GNOME/gnome-screenshot) screenshot tool(is one of the available screenshot programs for i3lock-fancy)
 
 (2) Clone the files
 
